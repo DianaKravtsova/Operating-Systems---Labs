@@ -1,0 +1,3 @@
+﻿  OS08_01.cpp
+D:\OS\OS08\OS08_01\OS08_01.cpp(7,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OS08_01.vcxproj -> D:\OS\OS08\Debug\OS08_01.exe
